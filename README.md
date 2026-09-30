@@ -10,6 +10,11 @@
 
 ---
 
+<div align="center">
+  <img src="assets/aircanvas-preview.jpg" width="100%" style="border-radius: 12px;" alt="AirCanvas AI Spatial Gesture Tracking & 3D Sculpting Demo Preview" />
+</div>
+
+
 AirCanvas AI is a production-quality, low-latency spatial drawing and whiteboard application that allows users to create art in 2D and 3D spaces using webcam hand gestures. The experience is designed to match the futuristic feel of Apple Vision Pro interactions.
 
 ## 🚀 Key Features
